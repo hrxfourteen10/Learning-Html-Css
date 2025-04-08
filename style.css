@@ -1,3 +1,12 @@
 body{
     background-color: aqua;
 }
+.head{
+color: red;
+text-align: center;
+font-size: 60px;
+text-transform: capitalize;
+text-decoration: underline;
+text-decoration-color: blue;
+text-decoration-style: dashed;
+}
