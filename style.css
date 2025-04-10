@@ -9,4 +9,17 @@ text-transform: capitalize;
 text-decoration: underline;
 text-decoration-color: blue;
 text-decoration-style: dashed;
+letter-spacing: 30px;
+}
+
+
+
+.para{font-weight: bold;
+    font-style: italic;
+    word-spacing: 20px;
+line-height: 70px;
+
+
+
+
 }
