@@ -1,0 +1,25 @@
+.sec{
+
+background-color: aqua;
+color:blue;
+padding: 20px;
+margin-top: 20px;
+border: 13px solid green;
+margin-top: 20px;
+border-top-right-radius: 30px;
+margin: 50PX;
+width: 600px;
+box-shadow: 4px 5px 6px 7px blueviolet;
+}
+
+
+
+.PARENT{
+    display: flex;
+
+}
+h1{
+    border: 2px solid blueviolet;
+    margin: 20px;
+    padding: 20px;
+}
