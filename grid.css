@@ -6,16 +6,40 @@ grid-template-columns: repeat(3,auto);
 grid-template-rows: 300px 200px ;
 }
  
-.ch1,.ch2,.ch3,.ch4,.ch5,.ch6{
+.ch1,.ch2,.ch5{
  background-color : blue;
-border: 2px solid black;
-
+border: 2px solid yellow;
 
 }
 
+.ch3{
+    background-color: green;
+}
 
+.ch4{
+    background-color: yellow;
+}
 
+.ch6{
+    background-color: brown;
+}
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
 
+.ch2{
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.ch6{
+ grid-column-start: 2;
+ grid-column-end: 4;
+
+}
 
 
 

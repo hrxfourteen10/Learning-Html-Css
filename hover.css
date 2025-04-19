@@ -1,0 +1,62 @@
+.btn:hover{
+ background-color: brown;
+ color: yellow;
+ border:1px solid green;
+ padding: 3px;
+ border-radius: 2px;
+
+}
+
+.head:hover{
+ color:blue
+}
+
+img:hover{
+border-radius: 50%;
+border :1px solid
+
+}
+
+input::placeholder{
+
+    color: blue;
+    padding: 30px;
+}
+
+p::selection{
+
+    color:aquamarine;
+    background-color: green;
+    
+}
+
+h1{
+    font-family: "Bungee Spice", sans-serif;
+}
+
+
+.name::after{
+    content: "dixit";
+    color: red;
+}
+
+.name::before{
+    content: "Mr.";
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
